@@ -1,0 +1,21 @@
+{
+  "name": "collectionview",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "canned": "~0.2.2",
+    "bb-collection-view": "~0.9.3",
+    "jquery-untouched": "~1.10.2",
+    "underscore": "~1.6.0",
+    "express": "~4.1.0",
+    "proxy-middleware": "~0.5.0",
+    "morgan": "~1.0.0",
+    "backbone": "~1.1.2"
+  }
+}
